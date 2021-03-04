@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Homework3</string>
+    <string name="label1">character</string>
+    <string name="label2">location</string>
+    <string name="label3">episode</string>
+    <string name="title">Rick and Morty</string>
+    <string name="episodeTitle">Episodes Appeared In</string>
+    <string name="episodeCharacters">Characters in this episode</string>
+    <string name="moreInfo">More Information</string>
+</resources>
